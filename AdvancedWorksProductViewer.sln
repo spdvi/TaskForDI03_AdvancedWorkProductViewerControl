@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestControlUI", "LoadImageFromDB\TestControlUI.csproj", "{0E60A577-C6C5-4F45-8443-7240C76C297D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductViewControl", "ProductViewControl\ProductViewControl.csproj", "{EBA2DD14-38EF-4D04-966A-13DF19350BAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E60A577-C6C5-4F45-8443-7240C76C297D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E60A577-C6C5-4F45-8443-7240C76C297D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E60A577-C6C5-4F45-8443-7240C76C297D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E60A577-C6C5-4F45-8443-7240C76C297D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBA2DD14-38EF-4D04-966A-13DF19350BAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBA2DD14-38EF-4D04-966A-13DF19350BAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBA2DD14-38EF-4D04-966A-13DF19350BAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBA2DD14-38EF-4D04-966A-13DF19350BAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BC0065A-D2D9-4D51-91A8-B3D50066E504}
+	EndGlobalSection
+EndGlobal
